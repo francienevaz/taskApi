@@ -1,0 +1,24 @@
+{
+  "name": "taskapi",
+  "version": "1.0.0",
+  "description": "API de gestáo de tarefas",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francienevaz/taskApi.git"
+  },
+  "author": "Franciene Vaz",
+  "bugs": {
+    "url": "https://github.com/francienevaz/taskApi/issues"
+  },
+  "homepage": "https://github.com/francienevaz/taskApi#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
